@@ -19,9 +19,7 @@ git clone https://github.com/mahdighadiriii/Influx-Telegraf-Grafana-Docker.git
 
 Navigate to the project directory
 
-```bash
-cd tig-stack
-```
+
 
 Change the environment variables define in `.env` that are used to setup and deploy the stack
 ```bash
